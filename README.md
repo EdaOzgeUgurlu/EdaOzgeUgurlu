@@ -1,16 +1,14 @@
 # Hey! I'm Eda Özge 👋
 
 💡 **Currently participating in Patika+ Back-End training.**  
-🌱 **Expanding my skills in C#, MVC, SQL, HTML, and CSS** to develop web solutions.  
-✨ **Passionate about combining engineering and technology** to create innovative solutions.
-
+🌱 **Expanding my skills in C#, MVC, SQL, HTML, and CSS to develop web solutions.**  
+✨ **I want to combine engineering and technology to create innovative solutions.**  
 📫 **How to reach me:** [edaozgeugurlu@gmail.com](mailto:edaozgeugurlu@gmail.com)
 
 ---
 
 ### 🌐 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edaozgeugurlu)  [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/edaozgeugurlu)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edaozgeugurlu) 
 ---
 
 ### ⚒️ **Technologies & Tools:**
