@@ -1,8 +1,8 @@
 # Hey! I'm Eda Özge 👋
 
-✨ I'm passionate about combining *engineering* and *technology* to create innovative solutions.  
-🌱 Currently, I'm expanding my skills in *C#, MVC, and SQL* to develop software solutions.  
-💡 My background in *Civil Engineering* helps me approach problems with a multidisciplinary perspective.  
+💡 I am currently participating in the Patika+ Back-End training.
+🌱 Currently, I’m expanding my skills in C#, MVC, SQL, HTML, and CSS to develop web solutions.
+✨ I’m passionate about combining engineering and technology to create innovative solutions.
 
 📫 How to reach me: [eda.ozge.ugurlu@example.com](mailto:eda.ozge.ugurlu@example.com)
 
