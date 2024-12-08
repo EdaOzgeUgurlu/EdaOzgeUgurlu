@@ -9,25 +9,17 @@
 ---
 
 ### 🌐 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edaozgeugurlu)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/edaozgeugurlu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edaozgeugurlu)  [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/edaozgeugurlu)
 
 ---
 
 ### ⚒️ **Technologies & Tools:**
 
 #### **Technologies:**
-![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp)  
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=postgresql)  
-![MVC](https://img.shields.io/badge/-MVC-orange?style=flat)  
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-blue?style=flat&logo=autodesk)  
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel)
+[![C#](https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)  [![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  [![MVC](https://img.shields.io/badge/-MVC-orange?style=for-the-badge)](https://dotnet.microsoft.com/apps/aspnet/mvc)  [![AutoCAD](https://img.shields.io/badge/-AutoCAD-blue?style=for-the-badge&logo=autodesk)](https://www.autodesk.com/products/autocad/overview)  [![Excel](https://img.shields.io/badge/-Excel-green?style=for-the-badge&logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 #### **Tools:**
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat&logo=visual-studio)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
-![Jira](https://img.shields.io/badge/-Jira-blue?style=flat&logo=jira)  
-![Slack](https://img.shields.io/badge/-Slack-purple?style=flat&logo=slack)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio)](https://visualstudio.microsoft.com/)  [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)  [![Jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)  [![Slack](https://img.shields.io/badge/-Slack-purple?style=for-the-badge&logo=slack)](https://slack.com/)
 
 ---
 
