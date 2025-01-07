@@ -8,36 +8,35 @@
 ---
 
 ### 🌐 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edaozgeugurlu) 
+<a href="https://www.linkedin.com/in/edaozgeugurlu" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
 
 ---
 
 ### ⚒️ **Technologies & Tools:**
 
 #### **Programming Languages & Frameworks:**
-[![C#](https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
-[![.NET Core](https://img.shields.io/badge/-NET_Core-purple?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)  
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)](https://reactjs.org/)  
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET Core"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React.js"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"></a>
 
 #### **Web Development:**
-[![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"></a>
 
 #### **Database & Engineering:**
-[![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-green?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  
-[![PLC](https://img.shields.io/badge/-PLC-gray?style=for-the-badge)](https://en.wikipedia.org/wiki/Programmable_logic_controller)  
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"></a>
+<a href="https://en.wikipedia.org/wiki/Programmable_logic_controller" target="_blank"><img src="https://img.icons8.com/color/48/000000/engineering.png" alt="PLC"></a>  
 **Engineering Expertise:** Millimeter-Wave Antennas, Automation
 
 #### **Tools:**
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio)](https://visualstudio.microsoft.com/)  
-[![SQL Server Management Studio](https://img.shields.io/badge/-SQL%20Server%20Management%20Studio-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)  
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)  
-[![Jira](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)  
-[![Slack](https://img.shields.io/badge/-Slack-purple?style=for-the-badge&logo=slack)](https://slack.com/)  
-[![Code](https://img.shields.io/badge/-Code-green?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"></a>
+<a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server Management Studio"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"></a>
+<a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack"></a>
 
 ---
 
@@ -50,5 +49,5 @@
 
 ### 📌 **Fun Fact:**
 🎸 **I love learning new skills.** When I'm not coding or working as a civil engineer, I enjoy listening to music or playing instruments. I have a cat named Toros, and playing with **him** helps me relax! 🐾
-```
+
 
